@@ -1,0 +1,7 @@
+profile,direct_package,description
+Web API example,flask,Small web service; an illustrative 2022 package set
+Web API example,requests,Small web service; an illustrative 2022 package set
+Report CLI example,requests,Data collection and HTML reporting exercise
+Report CLI example,jinja2,Data collection and HTML reporting exercise
+Admin portal example,django,A sample site with a separate Flask component
+Admin portal example,flask,A sample site with a separate Flask component

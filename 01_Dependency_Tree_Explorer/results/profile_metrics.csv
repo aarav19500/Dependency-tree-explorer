@@ -1,0 +1,4 @@
+profile,direct_packages,transitive_packages,total_packages,dependency_edges,max_depth,shared_requirements
+Web API example,2,9,11,10,2,1
+Report CLI example,2,5,7,5,1,0
+Admin portal example,2,8,10,9,2,1

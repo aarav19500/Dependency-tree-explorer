@@ -1,0 +1,25 @@
+profile,parent,required_dependency
+Web API example,flask,click
+Web API example,flask,itsdangerous
+Web API example,flask,jinja2
+Web API example,flask,werkzeug
+Web API example,jinja2,markupsafe
+Web API example,requests,certifi
+Web API example,requests,charset-normalizer
+Web API example,requests,idna
+Web API example,requests,urllib3
+Web API example,werkzeug,markupsafe
+Report CLI example,jinja2,markupsafe
+Report CLI example,requests,certifi
+Report CLI example,requests,charset-normalizer
+Report CLI example,requests,idna
+Report CLI example,requests,urllib3
+Admin portal example,django,asgiref
+Admin portal example,django,pytz
+Admin portal example,django,sqlparse
+Admin portal example,flask,click
+Admin portal example,flask,itsdangerous
+Admin portal example,flask,jinja2
+Admin portal example,flask,werkzeug
+Admin portal example,jinja2,markupsafe
+Admin portal example,werkzeug,markupsafe

@@ -1,0 +1,5 @@
+matplotlib>=3.7,<4
+networkx>=3.0,<4
+packaging>=23,<27
+reportlab>=4.0,<5
+Pillow>=9,<13

@@ -1,0 +1,14 @@
+parent,child,metadata_reference
+flask,werkzeug,https://github.com/pallets/flask/blob/2.2.2/setup.py
+flask,jinja2,https://github.com/pallets/flask/blob/2.2.2/setup.py
+flask,click,https://github.com/pallets/flask/blob/2.2.2/setup.py
+flask,itsdangerous,https://github.com/pallets/flask/blob/2.2.2/setup.py
+jinja2,markupsafe,https://github.com/pallets/jinja/blob/3.1.2/setup.py
+werkzeug,markupsafe,https://github.com/pallets/werkzeug/blob/2.2.2/setup.py
+requests,urllib3,https://github.com/psf/requests/blob/v2.28.1/setup.py
+requests,certifi,https://github.com/psf/requests/blob/v2.28.1/setup.py
+requests,idna,https://github.com/psf/requests/blob/v2.28.1/setup.py
+requests,charset-normalizer,https://github.com/psf/requests/blob/v2.28.1/setup.py
+django,asgiref,https://github.com/django/django/blob/3.2.12/setup.cfg
+django,sqlparse,https://github.com/django/django/blob/3.2.12/setup.cfg
+django,pytz,https://github.com/django/django/blob/3.2.12/setup.cfg

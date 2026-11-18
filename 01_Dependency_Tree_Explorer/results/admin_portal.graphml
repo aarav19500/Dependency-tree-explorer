@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="flask"/>
+<node id="werkzeug"/>
+<node id="jinja2"/>
+<node id="click"/>
+<node id="itsdangerous"/>
+<node id="markupsafe"/>
+<node id="django"/>
+<node id="asgiref"/>
+<node id="sqlparse"/>
+<node id="pytz"/>
+<edge source="flask" target="werkzeug"/>
+<edge source="flask" target="jinja2"/>
+<edge source="flask" target="click"/>
+<edge source="flask" target="itsdangerous"/>
+<edge source="werkzeug" target="markupsafe"/>
+<edge source="jinja2" target="markupsafe"/>
+<edge source="django" target="asgiref"/>
+<edge source="django" target="sqlparse"/>
+<edge source="django" target="pytz"/>
+</graph></graphml>

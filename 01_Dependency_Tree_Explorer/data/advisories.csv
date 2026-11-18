@@ -1,0 +1,10 @@
+cve_id,package,introduced_inclusive,fixed_exclusive,cvss31_nvd,summary,advisory_reference,scope_note
+CVE-2023-32681,requests,2.3.0,2.31.0,6.1,Proxy-Authorization header disclosure on redirects,https://nvd.nist.gov/vuln/detail/CVE-2023-32681,"Selected affected range, simplified to the historical 2.x branch"
+CVE-2023-43804,urllib3,0,1.26.17,8.1,Cookie header may leak across cross-origin redirects,https://nvd.nist.gov/vuln/detail/CVE-2023-43804,For the installed 1.26.x branch; 2.x has a separate fix
+CVE-2023-45803,urllib3,0,1.26.18,4.2,HTTP request body may persist after redirect,https://nvd.nist.gov/vuln/detail/CVE-2023-45803,For the installed 1.26.x branch; 2.x has a separate fix
+CVE-2022-23491,certifi,2017.11.5,2022.12.7,7.5,TrustCor certificate removal,https://nvd.nist.gov/vuln/detail/CVE-2022-23491,NVD 7.5 differs from CNA 6.8; NVD used consistently
+CVE-2023-30861,flask,0,2.2.5,7.5,Session caching risk under specific proxy settings,https://nvd.nist.gov/vuln/detail/CVE-2023-30861,For 2.2.x branch only; exploitation requires several conditions
+CVE-2023-25577,werkzeug,0,2.2.3,7.5,Multipart parsing may exhaust resources,https://nvd.nist.gov/vuln/detail/CVE-2023-25577,Selected older branch
+CVE-2024-22195,jinja2,0,3.1.3,6.1,HTML attribute injection through xmlattr filter,https://nvd.nist.gov/vuln/detail/CVE-2024-22195,NVD 6.1 differs from CNA 5.4; NVD used consistently
+CVE-2022-28346,django,3.2.0,3.2.13,9.8,Potential SQL injection through QuerySet column aliases,https://nvd.nist.gov/vuln/detail/CVE-2022-28346,Only Django 3.2.x branch represented here
+CVE-2023-30608,sqlparse,0.1.15,0.4.4,7.5,Inefficient regular expression can lead to denial of service,https://nvd.nist.gov/vuln/detail/CVE-2023-30608,NVD 7.5 differs from CNA 5.5; NVD used consistently
